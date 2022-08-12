@@ -27,7 +27,7 @@ namespace App2
                     Console.WriteLine("Eligió la opcion {0}", option);
                     break;
                 default:
-                    Console.WriteLine("Esta opcion no existe);
+                    Console.WriteLine("Esta opcion no existe");
                     break;
             }
 
