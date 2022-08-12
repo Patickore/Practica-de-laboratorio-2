@@ -26,7 +26,7 @@ namespace Practica_de_laboratorio_2
             }
             else
             {
-                Cosole.Writeline("La nota no es correcta");
+                Console.WriteLine("La nota no es correcta");
             }
         }
     }
